@@ -3,7 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-
+lightbulb.packaging
+onyx logo.png
+notes.txt
+zoomcharts logo.png
 # C extensions
 *.so
 
